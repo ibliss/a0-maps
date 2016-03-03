@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Basic_fighter_maneuvers
 # Tracks:
 
 ## Key:
-* Track implemented
+* Track implemented  
 ! May not be possible, see note
 
 ## all_bfm
@@ -26,7 +26,7 @@ A standard "1g" barrel roll which has no lateral or vertical displacement.
 
 
 ## canopy_roll
-Barrel roll with altitude loss.
+Barrel roll with altitude loss.  
 Roll 180, continue barrel.
 
 ## defensive_spiral
@@ -39,14 +39,14 @@ Barrel roll in the vertical
 Reverse direction, gain altitude, lose speed.
 
 ## loop
-Vertical loop, maintain altitude, direction, and speed.
+Vertical loop, maintain altitude, direction, and speed.  
 ! May be a problem with vertical reversals
 
 ## low_yoyo
 Dive to gain speed, pop up at the end.
 
 ## scissors
-Extreme lateral movement, as slow as possible without loosing alt.
+Extreme lateral movement, as slow as possible without loosing alt.  
 Track idea: put rocks in front of gates.
 
 ## split_s
