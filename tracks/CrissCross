@@ -1,0 +1,14 @@
+a0Editor v1.11, alps, laps=2, creatorDif=0, rules=0/0, msg==,;
+cam: pos[ 1491.70, 3486.10, 1221.67 ], rot[ -141.97, -153.96, 38.65 ];
+obj: id[ gate_start, gate_start ], pos[ 1180.94, 2897.04, 726.40 ], rot[ -180.00, 180.00, -1.71 ];
+obj: id[ gate_normal, gate_normal ], pos[ 960.90, 2363.43, 733.00 ], rot[ 0.00, 0.00, 154.32 ];
+obj: id[ gate_slalomRight, gate_slalomRight ], pos[ 915.11, 2007.70, 747.20 ], rot[ 0.00, 0.00, 154.32 ];
+obj: id[ gate_slalomLeft, gate_slalomLeft ], pos[ 344.23, 1499.81, 748.65 ], rot[ 0.00, 0.00, 154.32 ];
+obj: id[ gate_slalomLeft2, gate_slalomLeft ], pos[ 280.98, 1177.37, 752.06 ], rot[ 180.00, -180.00, 0.42 ];
+obj: id[ gate_slalomLeft3, gate_slalomLeft ], pos[ 614.70, 1373.69, 753.38 ], rot[ 0.00, 0.00, -37.16 ];
+obj: id[ gate_slalomRight2, gate_slalomRight ], pos[ 698.33, 2080.15, 736.14 ], rot[ 0.00, 0.00, -20.83 ];
+obj: id[ gate_normal2, gate_normal ], pos[ 948.14, 2376.73, 840.24 ], rot[ 0.00, 0.00, -29.17 ];
+obj: id[ replayCam1, replayCam ], pos[ 1043.06, 2450.50, 778.95 ], rot[ 0.00, 0.00, 342.84 ];
+obj: id[ gate_slalomLeft4, gate_slalomLeft ], pos[ 1149.31, 2647.25, 741.99 ], rot[ 0.00, 0.00, -24.76 ];
+obj: id[ rock_ring, rock_ring ], pos[ 952.36, 2366.48, 732.53 ], rot[ 0.00, 0.00, 154.62 ];
+obj: id[ gate_slalomRight3, gate_slalomRight ], pos[ 990.66, 2904.15, 732.26 ], rot[ 0.00, 0.00, -51.44 ];
